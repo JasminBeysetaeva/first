@@ -1,5 +1,5 @@
 # Документация
-Добрый вечер/день, меня зовут Жасмин. Выбрала данное задание https://github.com/Star-it/Test_task/blob/master/Задачи/Web/PHP/API .
+Добрый вечер, Выбрала данное задание https://github.com/Star-it/Test_task/blob/master/Задачи/Web/PHP/API .
 Для того чтобы подключить необходим OSpanel. Туда нужно добавить БД с именем CoffeeDB. Внутрь импортируйте СoffeeDB.sql. База данных подключается в Model/Credentials.php.
 
  версия php: 5.5.38      
